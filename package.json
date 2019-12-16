@@ -2,6 +2,7 @@
   "name": "booklist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://estebana28.github.io/readingList/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
